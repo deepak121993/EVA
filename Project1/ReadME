@@ -1,4 +1,4 @@
-Project1
+
 What are Channels and Kernels (according to EVA)?
 
 Kernels are the feature extractor , which are used during extraction of diffrent features from the image like blurring, shrpening etc. Basically kernels are of diffrent sizes but preferably we use only 3*3 kernel for optimization purposes. Channels are the similar feature bags in an image.For eg. tyres in an image of vichles. Channels can be as many as we want.
